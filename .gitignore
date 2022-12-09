@@ -14,6 +14,7 @@ __pycache__/
 *.json
 *.tar*
 *.ipynb
+*.db
 
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
